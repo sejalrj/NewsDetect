@@ -23,6 +23,4 @@ Machine Learning Libraries (Specify the libraries, e.g., TensorFlow, scikit-lear
 📊 Dataset
 We leverage the GDELT project as a primary data source, collecting real-time news articles to access a diverse range of news sources globally.
 
-📈 Results
-(Provide a brief overview of the results or findings of the project. Alternatively, link to a results section or page.)
 
