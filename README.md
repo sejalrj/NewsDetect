@@ -1,6 +1,6 @@
 # NewsDetect
 
-Project Title: Fighting Fake News and Identifying Trends
+Fighting Fake News and Identifying Trends
 
 📌 Introduction
 In the modern information age, the rapid dissemination of news has led to the spread of fake news becoming a significant concern. Our project aims to combat this by identifying and mitigating the spread of fake news using big data technologies.
